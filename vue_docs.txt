@@ -1,0 +1,14 @@
+Command for vue/cli: npm install @vue/cli
+Create vue project: vue create {name_of_project}
+To run local server: npm run serve 
+(the command 'serve' will be defined in the package.json file in the scripts object)
+
+Vue Files are known as Single File Components (SFC)
+
+Each Component consist of template, script and style. The Styles and Script are optional,
+altough you must have a template in the component. 
+A new feature of Vue is ou can have as many root elements inside the Vue Template tag.
+
+Directives: 
+Composites: 
+Conditional rendreing: 
